@@ -53,9 +53,9 @@ function DrawerAppBar(props) {
   const container = window !== undefined ? () => window().document.body : undefined;
 
   return (
-    <Box sx={{ display: "flex", height: 50 }}>
+    <Box sx={{ display: "flex", height: 50}}>
       <CssBaseline />
-      <AppBar component="nav">
+      <AppBar component="nav" sx={{backgroundColor: "#e91e63"}}>
       <Container>
         <Toolbar>
         

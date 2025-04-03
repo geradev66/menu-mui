@@ -13,7 +13,7 @@ react-router-dom → Para manejar las rutas de la aplicación.
 
 @mui/icons-material → Iconos de Material-UI.
 
-
+para cambiar el color de fondo cambialo directamente de la etiquetya <AppBar>
 
 Estructura de carpetas 
 
