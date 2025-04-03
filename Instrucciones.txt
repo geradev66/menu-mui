@@ -1,0 +1,32 @@
+Instalar Dependencias
+Ejecuta el siguiente comando para instalar todas las librerías necesarias:
+
+npm install react-router-dom @mui/material @emotion/react @emotion/styled @mui/icons-material
+
+Explicación de cada paquete:
+
+react-router-dom → Para manejar las rutas de la aplicación.
+
+@mui/material → Componentes de Material-UI.
+
+@emotion/react y @emotion/styled → Necesarios para el sistema de estilos de Material-UI.
+
+@mui/icons-material → Iconos de Material-UI.
+
+
+
+Estructura de carpetas 
+
+📂 mi-proyecto
+ ├── 📂 src
+ │   ├── 📂 components
+ │   │   ├── DrawerAppBar.js
+ │   ├── 📂 pages
+ │   │   ├── Home.js
+ │   │   ├── About.js
+ │   │   ├── Contact.js
+ │   ├── App.js
+ │   ├── index.js
+ ├── package.json
+ ├── README.md
+ ├── .gitignore
